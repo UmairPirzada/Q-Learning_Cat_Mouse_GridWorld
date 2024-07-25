@@ -86,11 +86,20 @@ A Tkinter application that visualizes the environment, including the agent, goal
 # How to Run
 Clone the Repository:
 git clone https://github.com/UmairPirzada/Q-Learning_Cat_Mouse_GridWorld.git
-cd Q-Learning_Cat_Mouse_GridWorld
-Install Dependencies:
+ 
+# Install Dependencies:
 Make sure you have the necessary Python packages installed:
 
-pip install gym numpy pillow matplotlib
+pip install 
+
+gym 
+
+numpy 
+
+pillow 
+
+matplotlib
+
 Run the Training and Visualization:
 
 
@@ -98,12 +107,19 @@ Run the Training and Visualization:
 The visualizer runs in fullscreen mode by default. Press the Escape key to exit fullscreen.
 
 # Dependencies
+
 ### Python 3.6+
+
 ### Gym
+
 ### NumPy
+
 ### Pillow
+
 ### Matplotlib
+
 ### Tkinter (included with standard Python installations)
+
 # Conclusion
 The script combines reinforcement learning concepts with practical implementation to create a grid world environment where an agent learns to navigate towards a goal 
 
