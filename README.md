@@ -85,7 +85,7 @@ A Tkinter application that visualizes the environment, including the agent, goal
 
 # How to Run
 Clone the Repository:
-git clone https://github.com/yourusername/Q-Learning_Cat_Mouse_GridWorld.git
+git clone https://github.com/UmairPirzada/Q-Learning_Cat_Mouse_GridWorld.git
 cd Q-Learning_Cat_Mouse_GridWorld
 Install Dependencies:
 Make sure you have the necessary Python packages installed:
